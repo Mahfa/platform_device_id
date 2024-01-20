@@ -1,7 +1,8 @@
 name: platform_device_id
 description: You can get device id from platform - linux/mac/windows/android/ios/web.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/BestBurning/platform_device_id
+publish_to: https://dart.cloudsmith.io/mizban/common/
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
